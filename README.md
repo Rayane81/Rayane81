@@ -2,7 +2,8 @@
 🎓Étudiant en informatique <br>
 
 ## 💻Compétences 
-_Python<br>
+![python](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
+
 _Java<br>
 _SQL<br>
 _HTML,CSS<br>
