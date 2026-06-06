@@ -8,7 +8,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 _ _ _
 ## Actuellement
-J'améliore mes compétences en programmation et je travaille sur différents projets informatique pour enrichir mon expérience 
+* **Apprentissage:** j'approfondis mes compétences en programmation et en atchitecure logicielle
+* **Projet:** Je travaille sur différents projets personnels(par exemple des scripts Python)
+* **Objectif:** Dévlopper des application de plus robustes, collaborer sur des projets open-source 
 _ _ _
 ## ✉Contact
 Github: Rayane81
