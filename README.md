@@ -1,16 +1,15 @@
-## Hi there 👋
+## bonjour 👋,je suis Rayane 
+🎓Étudiant en informatique 
 
-<!--
-**Rayane81/Rayane81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻Compétences 
+_Python
+_Java
+_SQL
+_HTML,CSS
 
-Here are some ideas to get you started:
+##Actuellement
+J'améliore mes compétences en programation et je travaille sur différents projets informatique pour enrichir mon expérience 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##✉Contact
+Github: Rayane81
+E-mail:berdousrayane8@gmail.com
